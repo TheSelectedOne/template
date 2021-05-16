@@ -1,5 +1,7 @@
 ### Template
 
+-   This is not production ready!
+
 ##### Template for starting a project with:
 
 -   React.JS(TypeScript)
